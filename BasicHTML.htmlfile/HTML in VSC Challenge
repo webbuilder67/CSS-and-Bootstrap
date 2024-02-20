@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8/>"
+        <meta name="viewport" content="width=device-width">
+        <title>Frenchie's!</title>
+    </head>
+    <body>
+        <div>
+        <h1 style="font-size:medium; color: red">Frenchie's are the Best!</h1>
+    </div>
+    <div>
+        <p style="color:blue; font-size: medium"></p> French Bulldogsmake the best Pets!</p>
+    </div>    
+    </body> 
+</html>
